@@ -1,1 +1,1 @@
-# Skin-type-deteection
+# Skin-type-detection
